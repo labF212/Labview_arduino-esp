@@ -2,6 +2,8 @@
 
 Para programar Arduino/ESP-32 através de Labview podem ser usados vários métodos:
 - através de porta série usando o LINX (apenas arduino)
+  - NI VISA e Marker Hub instalado através do VI Package Manager
+
 - através de porta série usando strings (usando bloco VISA Serial)
   - https://www.youtube.com/watch?v=tq_cCfC071o tailandês (Arduino e ESP-32)
   - https://www.youtube.com/watch?v=s5iRtjWIGH4 espanhol (Arduino)
