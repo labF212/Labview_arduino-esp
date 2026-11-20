@@ -1,4 +1,4 @@
-# Programar Arduino e ESP-32 com Lavbview
+# Programar Arduino e ESP-32 com Labview
 
 Para programar Arduino/ESP-32 através de Labview podem ser usados vários métodos:
 - através de porta série usando o LINX (apenas arduino)
